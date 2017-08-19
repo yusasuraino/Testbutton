@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922720063420",
+    "firebase_url": "https://testbutton-25e06.firebaseio.com",
+    "project_id": "testbutton-25e06",
+    "storage_bucket": "testbutton-25e06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922720063420:android:74ead586a5add10f",
+        "android_client_info": {
+          "package_name": "com.example.yuichiorimo.testbutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922720063420-g74gjojfkl9j33br8lkfp3jpc7nf9sij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yuichiorimo.testbutton",
+            "certificate_hash": "5349a0576bd9be1ac2b4bf1375f95fd16292ee75"
+          }
+        },
+        {
+          "client_id": "922720063420-f442iif5f6i34kh20sq2vjb4hvnmtp6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYijAOnGtqLZMgaibI_NwNDXpajlFF7vs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922720063420-f442iif5f6i34kh20sq2vjb4hvnmtp6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
